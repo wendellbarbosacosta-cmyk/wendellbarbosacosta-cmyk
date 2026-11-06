@@ -1,4 +1,7 @@
-# Olá, eu sou o Wendell Barbosa Costa! 👋
+<!-- BANNER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=250&section=header&text=Wendell%20Barbosa&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+# Olá! 👋
 
 ### 👨‍💻 Cientista de Dados e Engenheiro de I.A. em Formação
 
@@ -8,47 +11,35 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
 - 📊 Certificado como **Analista de Dados** pela Indicium Academy.
 - ☁️ Possuo certificação **Google Cloud Computing Foundations**.
 - 🚀 Foco atual: Engenharia de I.A., Machine Learning, e fluxos de trabalho ágeis (GitFlow).
-- 🤝 Quer trocar uma ideia sobre dados, I.A. ou até sobre setups e hardware? É só chamar!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wendell-barbosa-costa-3728191a1" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Wendell">
-  </a>
-</div>
+- 🤝 Quer trocar uma ideia sobre dados, I.A. ou setups e hardware? [Me chame no LinkedIn!](https://www.linkedin.com/in/wendell-barbosa-costa-3728191a1)
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL" title="SQL" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" title="Power BI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 <br/>
 
-### 📊 Estatísticas do GitHub
+### 🔥 GitHub Stats & Streak
 
 <div align="left">
+  <!-- GitHub Streak (Igual imagens 1 e 3) -->
   <a href="https://github.com/wendellbarbosacosta-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=wendellbarbosacosta-cmyk&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendellbarbosacosta-cmyk&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
   </a>
+  <!-- Top Languages (Com tema combinando) -->
   <a href="https://github.com/wendellbarbosacosta-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbarbosacosta-cmyk&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbarbosacosta-cmyk&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" alt="Linguagens mais usadas" />
   </a>
 </div>
