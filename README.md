@@ -27,7 +27,7 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL" title="SQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" title="Power BI" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" title="Power BI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
   <img width="12" />
@@ -46,7 +46,7 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
 
 <div align="left">
   <a href="https://github.com/wendellbarbosacosta-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=wendellbarbosacosta-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wendellbarbosacosta-cmyk&show_icons=true&theme=tokyonight&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/wendellbarbosacosta-cmyk">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbarbosacosta-cmyk&layout=compact&theme=tokyonight&custom_title=Tecnologias&locale=pt-br" height="150" alt="Linguagens mais usadas" />
