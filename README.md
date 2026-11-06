@@ -44,11 +44,13 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
 
 ### 📊 Estatísticas do GitHub
 
+### 📊 Estatísticas do GitHub
+
 <div align="left">
   <a href="https://github.com/wendellbarbosacosta-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=wendellbarbosacosta-cmyk&show_icons=true&theme=tokyonight&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wendellbarbosacosta-cmyk&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/wendellbarbosacosta-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbarbosacosta-cmyk&layout=compact&theme=tokyonight&custom_title=Tecnologias&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbarbosacosta-cmyk&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
   </a>
 </div>
