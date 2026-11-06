@@ -1,5 +1,5 @@
 <!-- BANNER CUSTOMIZADO (Certifique-se de que a imagem está na pasta raiz do repositório) -->
-<img src="github-banner-data-science-1793941532230.jpg" width="100%" alt="Banner Data Science Wendell" />
+<img src="github-banner-data-science-1793941532230.gif" width="100%" alt="Banner Data Science Wendell" />
 
 # Olá, eu sou o Wendell Barbosa! 👋
 
