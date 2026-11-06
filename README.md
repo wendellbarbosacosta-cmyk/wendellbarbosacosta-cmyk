@@ -44,8 +44,6 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="left">
   <a href="https://github.com/wendellbarbosacosta-cmyk">
     <img src="https://github-readme-stats.vercel.app/api?username=wendellbarbosacosta-cmyk&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
