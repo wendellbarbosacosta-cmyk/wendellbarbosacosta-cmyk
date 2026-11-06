@@ -1,7 +1,7 @@
-<!-- BANNER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=250&section=header&text=Wendell%20Barbosa&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
+<!-- BANNER CUSTOMIZADO (Certifique-se de que a imagem está na pasta raiz do repositório) -->
+<img src="github-banner-data-science-1793941532230.jpg" width="100%" alt="Banner Data Science Wendell" />
 
-# Olá! 👋
+# Olá, eu sou o Wendell Barbosa! 👋
 
 ### 👨‍💻 Cientista de Dados e Engenheiro de I.A. em Formação
 
@@ -31,15 +31,11 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
 
 <br/>
 
-### 🔥 GitHub Stats & Streak
+### 🔥 GitHub Streak
 
 <div align="left">
-  <!-- GitHub Streak (Igual imagens 1 e 3) -->
+  <!-- GitHub Streak -->
   <a href="https://github.com/wendellbarbosacosta-cmyk">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendellbarbosacosta-cmyk&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-  <!-- Top Languages (Com tema combinando) -->
-  <a href="https://github.com/wendellbarbosacosta-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbarbosacosta-cmyk&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" alt="Linguagens mais usadas" />
   </a>
 </div>
