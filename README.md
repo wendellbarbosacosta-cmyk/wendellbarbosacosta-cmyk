@@ -11,7 +11,7 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas complexos com 
 - 📊 Certificado como **Analista de Dados** pela Indicium Academy.
 - ☁️ Possuo certificação **Google Cloud Computing Foundations**.
 - 🚀 Foco atual: Engenharia de I.A., Machine Learning, e fluxos de trabalho ágeis (GitFlow).
-- 🤝 Quer trocar uma ideia sobre dados, I.A. ou setups e hardware? [Me chame no LinkedIn!](https://www.linkedin.com/in/wendell-barbosa-costa-3728191a1)
+- 🤝 Quer trocar uma ideia sobre dados, I.A. ou setups e hardware?
 
 ---
 
